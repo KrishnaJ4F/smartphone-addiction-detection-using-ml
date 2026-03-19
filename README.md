@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[https://smartphone-addiction-detection-using-ml.streamlit.app/](https://smartphone-addiction-detection-using-ml.streamlit.app/)**
+🔗 **[Click here to try the app](https://smartphone-addiction-detection-using-ml.streamlit.app/)**
 
 Enter a student's daily usage hours, sleep pattern, anxiety level, and academic performance to get an instant addiction risk prediction with confidence scores.
 
